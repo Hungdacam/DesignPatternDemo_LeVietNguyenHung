@@ -15,7 +15,7 @@ public class StaticBlockSingleton {
 	}
 	
 	public static void main(String[] args) {
-		StaticBlockSingleton instance1 = StaticBlockSingleton.getInstance();
+        StaticBlockSingleton instance1 = StaticBlockSingleton.getInstance();
         StaticBlockSingleton instance2 = StaticBlockSingleton.getInstance();
 
         // Kiểm tra hai thể hiện có cùng một địa chỉ bộ nhớ hay không

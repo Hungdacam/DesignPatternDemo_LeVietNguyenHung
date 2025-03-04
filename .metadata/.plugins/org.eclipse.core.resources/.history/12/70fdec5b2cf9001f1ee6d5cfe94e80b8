@@ -1,0 +1,5 @@
+package singlePattern;
+
+public class ThreadSafeSingleton {
+
+}
